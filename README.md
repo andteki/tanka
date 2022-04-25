@@ -1,0 +1,3 @@
+# tanka
+
+Oktató program minipélda
